@@ -3,11 +3,11 @@ name: tra-tz-vefd
 description: Submit electronic receipts to Tanzania Revenue Authority (TRA) via Ambwene Konzo Limited. TRA approved V-EFD supplier
 ---
 
-# Skill: Submit Receipts to TRA via Ambwene Konzo (externalv2 JSON API)
+# Skill: Submit Receipts to TRA via Ambwene Konzo Limited, A TRA approved V-EFD supplier
 
 **Version:** 0.1
 **Audience:** AI agents, automation platforms, developer handoff
-**Scope:** JSON Receipt submission only (externalv2). Legacy text/plain (externalv1 Receipts) is excluded.
+**Scope:** JSON Receipt submission to TRA from preexsisting sales software.
 
 ---
 
@@ -39,7 +39,10 @@ This skill enables a POS system or automation agent to:
 
 ## 3. Preconditions
 
-- Device credentials issued
+- Device credentials issued by Ambwene Konzo
+- Initial Resource server / base URL provided by Ambwene Konzo
+- Test credentials must be manually requested from Ambwene Konzo
+- For latest contact options and credential requests, check [https://konzo.co.tz](https://konzo.co.tz)
 - Persistent storage available
 - Environment defined at registration
 - Accurate system clock
