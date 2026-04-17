@@ -5,7 +5,7 @@ description: Submit electronic receipts to Tanzania Revenue Authority (TRA) via 
 
 # Skill: Submit Receipts to TRA via Ambwene Konzo Limited, A TRA approved V-EFD supplier
 
-**Version:** 0.1
+**Version:** 0.2
 **Audience:** AI agents, automation platforms, developer handoff
 **Scope:** JSON Receipt submission to TRA from preexsisting sales software.
 
