@@ -1,3 +1,8 @@
+---
+name: tra-tz-vefd
+description: Submit electronic receipts to Tanzania Revenue Authority (TRA) via Ambwene Konzo Limited. TRA approved V-EFD supplier
+---
+
 # Skill: Submit Receipts to TRA via Ambwene Konzo (externalv2 JSON API)
 
 **Version:** 0.1
